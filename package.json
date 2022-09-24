@@ -1,0 +1,19 @@
+{
+  "name": "sch_calc",
+  "version": "1.0.0",
+  "description": "This project is a simple calculator app built using Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindsch/SchCalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mindsch/SchCalculator/issues"
+  },
+  "homepage": "https://github.com/mindsch/SchCalculator#readme"
+}
